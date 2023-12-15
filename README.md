@@ -1,4 +1,5 @@
 Load an unpacked extension
+
 To load an unpacked extension in developer mode:
 
 1. Go to the Extensions page by entering chrome://extensions in a new tab. (By design chrome:// URLs are not linkable.)
